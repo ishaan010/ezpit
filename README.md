@@ -3,6 +3,8 @@
 ![Ezpit license](https://img.shields.io/github/license/ishaan010/ezpit?style=for-the-badge)
 ![Ezpit starts](https://img.shields.io/github/stars/ishaan010/ezpit?style=for-the-badge)
 ![PR unaccepted](https://img.shields.io/badge/PR-accepted-brightgreen?style=for-the-badge)
+![downloads](https://img.shields.io/visual-studio-marketplace/d/ezpie.ezpit?style=for-the-badge)
+![Vscode Rating](https://img.shields.io/visual-studio-marketplace/stars/ezpie.ezpit?style=for-the-badge)
 
 ## Features
 
