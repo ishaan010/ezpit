@@ -132,7 +132,7 @@
     "body": [
       "<section class=\"$1\">",
       "<h2 class=\"head\">$2</h2>",
-      "</section>"
+      "</section> <hr>"
     ],
     "description": "new section"
   },

@@ -3,6 +3,7 @@
   "displayName": "Ezpit",
   "description": "ezpit to help you start contributing with ezpie",
   "version": "0.1.0",
+  "icon": "logo/profile.png",
   "author": "Ishaan",
   "publisher": "Ezpie",
   "keywords": [
