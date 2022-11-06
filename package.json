@@ -2,7 +2,24 @@
   "name": "ezpit",
   "displayName": "Ezpit",
   "description": "ezpit to help you start contributing with ezpie",
-  "version": "0.0.1",
+  "version": "0.1.0",
+  "author": "Ishaan",
+  "publisher": "Ezpie",
+  "keywords": [
+    "html",
+    "ezpie",
+    "code snippets",
+    "snippets"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ishaan010/ezpit.git"
+  },
+  "bugs": {
+    "email": "ezpie.co@gmail.com",
+    "url": "https://github.com/ishaan010/ezpit/issue"
+  },
+  "homepage": "https://github.com/ishaan010/ezpit",
   "engines": {
     "vscode": "^1.73.0"
   },
